@@ -7,4 +7,4 @@ Python https://docs.google.com/document/d/1irY5dZbQ__jdWVwd1KKwQrMDVrUXXvErlRVFl
 модули 2,3;https://docs.google.com/document/d/10lvO5JnKb-jDm1fvcGcEaLzxbAzGQVMKklC7opk5umM/edit?usp=drivesdk
 сайт по аренде автоhttp://project8267969.tilda.ws
 <br>
-[Новелла](Практика/ПП.html)
+[Новелла](https://ariande1818f.github.io/InfoBez-i-BD/Практика/ПП.html)
